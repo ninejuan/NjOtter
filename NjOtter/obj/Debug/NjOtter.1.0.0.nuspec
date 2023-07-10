@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NjOtter</id>
+    <version>1.0.0</version>
+    <authors>NjOtter</authors>
+    <description>Package Description</description>
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+    <contentFiles>
+      <files include="any/net6.0/NjOtter.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="F:\주요작업\NineJuan\NjOtter\bin\Debug\net6.0\NjOtter.runtimeconfig.json" target="lib\net6.0\NjOtter.runtimeconfig.json" />
+    <file src="F:\주요작업\NineJuan\NjOtter\bin\Debug\net6.0\NjOtter.dll" target="lib\net6.0\NjOtter.dll" />
+    <file src="F:\주요작업\NineJuan\NjOtter\NjOtter.ico" target="content\NjOtter.ico" />
+    <file src="F:\주요작업\NineJuan\NjOtter\NjOtter.ico" target="contentFiles\any\net6.0\NjOtter.ico" />
+  </files>
+</package>

@@ -1,0 +1,4 @@
+F:\주요작업\NineJuan\NjOtter\bin\Release\net6.0\publish\NjOtter.exe
+F:\주요작업\NineJuan\NjOtter\bin\Release\net6.0\publish\NjOtter.dll
+F:\주요작업\NineJuan\NjOtter\bin\Release\net6.0\publish\NjOtter.deps.json
+F:\주요작업\NineJuan\NjOtter\bin\Release\net6.0\publish\NjOtter.runtimeconfig.json
